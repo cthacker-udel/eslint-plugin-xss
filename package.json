@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-xss",
+  "name": "eslint-plugin-ctxss",
   "version": "0.1.12",
   "description": "Validates XSS related issues of mixing HTML and non-HTML content in variables.",
   "keywords": [
